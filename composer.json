@@ -1,0 +1,14 @@
+{
+  "name": "almhdy24/php-mini-mvc",
+  "description": "Professional PHP Mini MVC Skeleton",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^8.0"
+  }
+}
